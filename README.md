@@ -1,10 +1,9 @@
-# 📱 Nome do Seu Projeto
+# 📱 Primeiros passos em Expo
 
 > **Status:** 🚀 Em Desenvolvimento / Finalizado
 
 ### 📄 Descrição
-Uma breve explicação do que o teu aplicativo faz. 
-*Exemplo: "Este é um projeto mobile desenvolvido para praticar os fundamentos de navegação e estilização no ecossistema React Native."*
+Este Projeto tem como função mostrar minha evolução e aprendizado na linguagem
 
 ---
 
