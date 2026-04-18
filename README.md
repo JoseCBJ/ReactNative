@@ -1,31 +1,32 @@
-# 📱 Primeiros passos em Expo
+# 📱 Getting Started with Expo
 
-> **Status:** 🚀 Em Desenvolvimento / Finalizado
+> **Status:** 🚀 In Development / Completed
 
-### 📄 Descrição
-Este Projeto tem como função mostrar minha evolução e aprendizado na linguagem
+### 📄 Description
+This project aims to demonstrate my evolution and learning in the language
 
 ---
 
-### 🛠 Tecnologias e Ferramentas
-As principais ferramentas utilizadas neste projeto:
+### 🛠 Technologies and Tools
+The main tools used in this project:
 
 * **Framework:** [React Native](https://reactnative.dev/)
-* **Plataforma:** [Expo](https://expo.dev/)
-* **Linguagem:** JavaScript
-* **Ambiente de Desenvolvimento:** VS Code
+* **Platform:** [Expo](https://expo.dev/)
+* **Language:** JavaScript
+* **Development Environment:** VS Code
 * **Runtime:** Node.js v24.15.0
 
 ---
 
-### 🏗 Estrutura de Pastas
-Para manter o projeto organizado e escalável, utilizei a seguinte estrutura de diretórios:
+### 🏗 Folder Structure
+To keep the project organized and scalable, I used the following directory structure:
 
 ```text
-├── assets/          # Imagens, ícones e fontes
+├── assets/          # Images, icons and fonts
 ├── src/
-│   ├── components/  # Componentes reutilizáveis
-│   ├── screens/     # Telas da aplicação
-│   └── styles/      # Estilização global (CSS-in-JS)
-├── App.js           # Ponto de entrada do aplicativo
-└── package.json     # Dependências do projeto
+│   ├── components/  # Reusable components
+│   ├── screens/     # Application screens
+│   └── styles/      # Global styling (CSS-in-JS)
+├── App.js           # Application entry point
+└── package.json     # Project dependencies
+```
